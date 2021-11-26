@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ..chinese.
 - 💞️ I’m looking to collaborate on ...python
 - 📫 How to reach me ...
+- I live in Oregon
 
 <!---
 naor-5/naor-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
